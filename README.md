@@ -21,8 +21,8 @@ Commanded by remote expert Pilots in teams of four, CyberPersons are the ultimat
 ## Instruction
 
 ```
-git clone https://github.com/tectera872/3DWorld-tectera-beta.git
-cd 3DWorld-tectera-beta
+git clone https://github.com/newbee98422/MetaWar_ver_4.git
+cd MetaWar_ver_4
 npm install
 npm run start
 ```
