@@ -1,3 +1,6 @@
+# IMPORTANT: DO NOT START THIS PROJECT IT CONTAINS INFOSTEALER
+I created this fork for investigation only
+
 # Getting Started
 
 Project is a play-and-earn web based NFT metaverse game with a full three.js built in. Through a variety of collecting and trading features, street battles, PvE, PvP, and syndicate events such as wars, Project aims to provide a source of amusement for both casual players and diehard DeFi aficionados.
